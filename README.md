@@ -9,7 +9,7 @@ This is the code for the AAAI 2021 Paper: [A Graph-based Relevance Matching Mode
 
 ## Requirements
 
-- 
+
 
 ## Citation
 
